@@ -15,7 +15,7 @@ class Nota {
     }
 
     mediaCA() {
-        return "SS";
+        return "MI";
     }
 }
 
