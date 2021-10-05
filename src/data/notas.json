@@ -14,15 +14,15 @@
       },
       {
          "disciplina": "ADS038 - Governança de TI",
-         "a1": 1.5,
+         "a1": 6.0,
          "a2": 6.5,
          "a3": 3
       },
       {
          "disciplina": "ADS040 - Business Intelligence e Data Warehousing",
-         "a1": 1.9,
-         "a2": 0,
-         "a3": null
+         "a1": 8.0,
+         "a2": 7.5,
+         "a3": 6.0
       }
    ]
 }
