@@ -15,6 +15,7 @@ class Nota {
     }
 
     mediaCA() {
+        // to do fixs
         return "SS";
     }
 }
