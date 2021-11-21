@@ -1,0 +1,11 @@
+{
+  "name": "aluno-online",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Henriquedevb/aluno-online",
+  "author": "henrique <henriquedevb@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
