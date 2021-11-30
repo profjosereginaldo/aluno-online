@@ -15,6 +15,7 @@ class Nota {
     }
 
     mediaCA() {
+<<<<<<< HEAD
         if( mediaFinal >= 9  )
         return "SS - superior";
         
@@ -32,6 +33,10 @@ class Nota {
 
         }
 
+=======
+        // to do fixs
+        return "SS";
+>>>>>>> 2ccc61971a2ca0d6d4489841da8ca49600f533f4
     }
 }
 
