@@ -15,8 +15,26 @@ class Nota {
     }
 
     mediaCA() {
-        return "SS";
+        if( mediaFinal >= 9  )
+        return "SS - superior";
+        
+        else if( mediaFinal <= 8.9 && mediaFinal >= 7 )
+        return "MS - Médio Superior";
+
+        else if( mediaFinal <= 6.9 && mediaFinal >= 5.0 )
+        return "MM - Médio ";
+
+        else if( mediaFinal <= 4.9 & mediaFinal >= 5.0 )
+        return "MI";
+
+        else {  
+        return "II"
+
+        }
+
     }
 }
+
+
 
 module.exports = Nota;
